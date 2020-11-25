@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Azul Caneta",
+      "price": 6.89
+    },
+    {
+      "id": 3,
+      "name": "Caneta Preta",
+      "price": 7.89
+    },
+    {
+      "name": "geladeira",
+      "price": "1000.99",
+      "id": 6
+    },
+    {
+      "name": "veio do front",
+      "price": "111",
+      "id": 7
+    },
+    {
+      "name": "fogao DAKO",
+      "price": "199.9",
+      "id": 8
+    },
+    {
+      "name": "vaga emprego Angular",
+      "price": "7000.00",
+      "id": 9
+    },
+    {
+      "name": "TCC farmacia",
+      "price": "1000",
+      "id": 10
+    },
+    {
+      "name": "tcc de fisioterapia",
+      "price": "900",
+      "id": 11
+    },
+    {
+      "name": "ssss",
+      "price": "012344",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.home .title{
+    font-size: 3rem; /* REM unidade relaita a fonte raiz da sua pagina*/
+    font-weight: 300;
+    line-height: 1.2;
+    
+
+}
+
+.home .subtitle{
+    font-size: 1.1rem; /*EM unidade relaita ao titulo superior dele*/
+
+}
